@@ -10,7 +10,7 @@
     <i>I'm an international student learning <b>Data Science and Machine Learning</b> with a passion for solving real-world problems using data-driven approaches. I am currently working on mastering Machine Learning and expanding my knowledge in Deep Learning through hands-on projects and courses.</i>
 </p>
 
-<h2>🛠 Skills</h2>
+<h2>🛠 My Skills</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="30" alt="r logo"  />
@@ -40,19 +40,39 @@
 
 
 ### Languages
-- Python, SQL, R, Bash
+1. Python
+1. SQL
+1. R
+1. Bash
 
 ### Machine Learning & Data Science
-- Scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn, PyTorch
+1. Scikit-learn
+1. TensorFlow
+1. NumPy
+1. Pandas
+1. Matplotlib
+1. Seaborn
+1. PyTorch
 
 ### Database
-- MySQL, DBeaver, MongoDB, PostgreSQL, Spark
+1. MySQL
+1. DBeaver
+1. MongoDB
+1. PostgreSQL
+1. Spark
 
 ### Other
-- Data Visualization, EDA, Model Deployment, Version Control
+1. Data Visualization
+1. EDA
+1. Model Deployment
+1. Version Control
 
 ### Development Tools & Frameworks
-- Git, VS Code, Jupyter Notebooks, Flask, Streamlit
+1. Git
+1. VS Code
+1. Jupyter Notebooks
+1. Flask
+1. Streamlit
 
 ## 📂 Projects
 
