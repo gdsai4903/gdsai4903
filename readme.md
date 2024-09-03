@@ -22,7 +22,7 @@ I'm an international student learning **Data Science and Machine Learning**, wit
 
 Here are a few projects I've been working on:
 
-- **Student Enrollment Program**: A command-line tool converted to a web app using Flask and deployed on Heroku, managing student data and performing CRUD operations. [Repo Link](#)
+- **Student Enrollment Program**: A command-line tool for students to enroll in college courses. [Repo Link](#)
 - **[Add your second project here]**: Describe briefly the project and its purpose. [Repo Link](#)
 - **[Add your third project here]**: Describe briefly the project and its purpose. [Repo Link](#)
 
@@ -35,10 +35,7 @@ I am continuously expanding my skillset. Here's what I'm focusing on:
 ![Gagandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdsai4903&show_icons=true&theme=radical)
 
 ## 🌐 Contact Me
-- [Blog - bavlyfe.com](https://bavlyfe.com)
-- [LinkedIn - Your LinkedIn](#)
-- [Twitter - Your Twitter](#)
-- [Email - Your Email](#)
+- <a href="https://www.linkedin.com/in/gagandeep-singh-354567242/" targe"_blank">LinkedIn</a>
 
 ## 🎉 Fun Fact
 I enjoy exploring how inflation impacts industries and how to leverage machine learning to analyze such trends.
