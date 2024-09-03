@@ -35,7 +35,7 @@ I am continuously expanding my skillset. Here's what I'm focusing on:
 ![Gagandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdsai4903&show_icons=true&theme=radical)
 
 ## 🌐 Contact Me
-- <a href="https://www.linkedin.com/in/gagandeep-singh-354567242/" targe"_blank">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/gagandeep-singh-354567242/" target="_blank">LinkedIn</a>
 
 ## 🎉 Fun Fact
 I enjoy exploring how inflation impacts industries and how to leverage machine learning to analyze such trends.
