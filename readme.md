@@ -32,7 +32,7 @@ I am continuously expanding my skillset. Here's what I'm focusing on:
 - **Advanced SQL Topics:** Recently completed an edX course by Stanford Online on Advanced SQL.
 
 ## 📈 GitHub Stats
-![Gagandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Gagandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdsai4903&show_icons=true&theme=radical)
 
 ## 🌐 Contact Me
 - [Blog - bavlyfe.com](https://bavlyfe.com)
