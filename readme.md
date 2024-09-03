@@ -2,11 +2,15 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </header>
 
-<p style="font-size: 30px" align=center>GagandeepSingh</p>
+<h1 style="font-size: 30px" align=center>GagandeepSingh</h1>
 
-I'm an international student learning **Data Science and Machine Learning**, with a passion for solving real-world problems using data-driven approaches. I am currently working on mastering Machine Learning and expanding my knowledge in Deep Learning through hands-on projects and courses.
+<p align="center">
+    <b>Welcome to my Github &#128075</b>
+    <br>
+    <i>I'm an international student learning <b>Data Science and Machine Learning</b> with a passion for solving real-world problems using data-driven approaches. I am currently working on mastering Machine Learning and expanding my knowledge in Deep Learning through hands-on projects and courses.</i>
+</p>
 
-## 🛠 Skills
+<h2>🛠 Skills</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="30" alt="r logo"  />
