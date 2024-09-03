@@ -1,6 +1,7 @@
 <header>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </header>
+
 # Hi, I'm Gagandeep Singh! 👋
 
 I'm an international student learning **Data Science and Machine Learning**, with a passion for solving real-world problems using data-driven approaches. I am currently working on mastering Machine Learning and expanding my knowledge in Deep Learning through hands-on projects and courses.
