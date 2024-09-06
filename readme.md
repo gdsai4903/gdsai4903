@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="30" alt="DBeaver logo" />
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" height="30" alt="Power BI logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="30" alt="mongodb logo"  />
@@ -39,40 +39,53 @@
 </div>
 
 
-### Languages
-1. Python
-1. SQL
-1. R
-1. Bash
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 50%; padding-left: 75px">
+    <h3>Languages</h3>
+    <ul>
+      <li>Python</li>
+      <li>SQL</li>
+      <li>R</li>
+      <li>Bash</li>
+    </ul>
+    <h3>Database</h3>
+    <ul>
+      <li>MySQL</li>
+      <li>DBeaver</li>
+      <li>MongoDB</li>
+      <li>PostgreSQL</li>
+      <li>Spark</li>
+    </ul>
+    <h3>Other</h3>
+    <ul>
+      <li>Data Visualization</li>
+      <li>EDA</li>
+      <li>Model Deployment</li>
+      <li>Version Control</li>
+    </ul>
+  </div>
 
-### Machine Learning & Data Science
-1. Scikit-learn
-1. TensorFlow
-1. NumPy
-1. Pandas
-1. Matplotlib
-1. Seaborn
-1. PyTorch
-
-### Database
-1. MySQL
-1. DBeaver
-1. MongoDB
-1. PostgreSQL
-1. Spark
-
-### Other
-1. Data Visualization
-1. EDA
-1. Model Deployment
-1. Version Control
-
-### Development Tools & Frameworks
-1. Git
-1. VS Code
-1. Jupyter Notebooks
-1. Flask
-1. Streamlit
+  <div style="width: 50%;">
+  <h3>Machine Learning & Data Science</h3>
+    <ul>
+      <li>Scikit-learn</li>
+      <li>TensorFlow</li>
+      <li>NumPy</li>
+      <li>Pandas</li>
+      <li>Matplotlib</li>
+      <li>Seaborn</li>
+      <li>PyTorch</li>
+    </ul>
+    <h3>Development Tools & Frameworks</h3>
+    <ul>
+      <li>Git</li>
+      <li>VS Code</li>
+      <li>Jupyter Notebooks</li>
+      <li>Flask</li>
+      <li>Streamlit</li>
+    </ul>
+  </div>
+</div>
 
 ## 📂 Projects
 
