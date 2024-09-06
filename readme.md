@@ -37,54 +37,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 50%;">
-    <h3>Languages</h3>
-    <ul>
-      <li>Python</li>
-      <li>SQL</li>
-      <li>R</li>
-      <li>Bash</li>
-    </ul>
-    <h3>Database</h3>
-    <ul>
-      <li>MySQL</li>
-      <li>DBeaver</li>
-      <li>MongoDB</li>
-      <li>PostgreSQL</li>
-      <li>Spark</li>
-    </ul>
-    <h3>Other</h3>
-    <ul>
-      <li>Data Visualization</li>
-      <li>EDA</li>
-      <li>Model Deployment</li>
-      <li>Version Control</li>
-    </ul>
-  </div>
-
-  <div style="width: 50%;">
-  <h3>Machine Learning & Data Science</h3>
-    <ul>
-      <li>Scikit-learn</li>
-      <li>TensorFlow</li>
-      <li>NumPy</li>
-      <li>Pandas</li>
-      <li>Matplotlib</li>
-      <li>Seaborn</li>
-      <li>PyTorch</li>
-    </ul>
-    <h3>Development Tools & Frameworks</h3>
-    <ul>
-      <li>Git</li>
-      <li>VS Code</li>
-      <li>Jupyter Notebooks</li>
-      <li>Flask</li>
-      <li>Streamlit</li>
-    </ul>
-  </div>
-</div>
+<h3>Languages</h3>
+  <ul>
+    <li>Python | SQL | R | Bash</li>
+  </ul>
+<h3>Database</h3>
+  <ul>
+    <li>MySQL | DBeaver | MongoDB | PostgreSQL | Spark</li>
+  </ul>
+<h3>Machine Learning & Data Science</h3>
+  <ul>
+    <li>Scikit-learn | TensorFlow | NumPy | Pandas | Matplotlib | Seaborn | PyTorch</li>
+  </ul>
+<h3>Development Tools & Frameworks</h3>
+  <ul>
+    <li>Git | VS Code | Jupyter Notebooks | Flask | Streamlit</li>
+  </ul>
+<h3>Other</h3>
+  <ul>
+    <li>Data Visualization | EDA | Model Deployment | Version Control</li>
+  </ul>
 
 ## 📂 Projects
 
