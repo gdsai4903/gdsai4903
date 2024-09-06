@@ -2,10 +2,10 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </header>
 
-<h1 style="font-size: 30px" align=center>GagandeepSingh</h1>
-
+<h1 style="font-size: 30px" align=center>Gagandeep Singh</h1>
+s
 <p align="center">
-    <b>Welcome to my Github &#128075</b>
+    <b style="font-size: 17px">Welcome to my Github &#128075</b>
     <br>
     <i>I'm an international student learning <b>Data Science and Machine Learning</b> with a passion for solving real-world problems using data-driven approaches. I am currently working on mastering Machine Learning and expanding my knowledge in Deep Learning through hands-on projects and courses.</i>
 </p>
@@ -40,7 +40,7 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="width: 50%; padding-left: 75px">
+  <div style="width: 50%;">
     <h3>Languages</h3>
     <ul>
       <li>Python</li>
@@ -104,4 +104,4 @@ I am continuously expanding my skillset. Here's what I'm focusing on:
 ![Gagandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdsai4903&show_icons=true&theme=radical)
 
 ## 🌐 Contact Me
-- <a href="https://www.linkedin.com/in/gagandeep-singh-354567242/" target="_blank">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/gagandeep-singh-354567242/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
