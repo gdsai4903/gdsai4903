@@ -3,7 +3,6 @@
 </header>
 
 <h1 style="font-size: 30px" align=center>Gagandeep Singh</h1>
-s
 <p align="center">
     <b style="font-size: 17px">Welcome to my Github &#128075</b>
     <br>
