@@ -72,7 +72,28 @@ I am continuously expanding my skillset. Here's what I'm focusing on:
 - **Advanced SQL Topics:** Recently completed an edX course by Stanford Online on Advanced SQL.
 
 ## 📈 GitHub Stats
-![Gagandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdsai4903&show_icons=true&theme=radical)
+<p align="center">
+  <a>
+    <img src = "https://github-readme-stats.vercel.app/api?username=gdsai4903&show_icons=true&theme=radical">
+  </a>
+</p>
 
 ## 🌐 Contact Me
-- <a href="https://www.linkedin.com/in/gagandeep-singh-354567242/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<p align="center">
+  <a href="mailto:tocontactgagan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/gdsai4903" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gagandeep-singh-354567242" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/gdsai4903" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerrank-0d141e?style=for-the-badge&logo=Hackerrank&logoColor=#30c864" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+Thank you for visiting my profile! I'm always eager to continue learning and growing, and I look forward to sharing more achievements in the future.
