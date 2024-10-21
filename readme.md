@@ -79,21 +79,17 @@ I am continuously expanding my skillset. Here's what I'm focusing on:
 </p>
 
 ## 🌐 Contact Me
-<p align="center" style="margin: 0; padding: 0;">
-  <a href="mailto:tocontactgagan@gmail.com" style="text-decoration: none; margin: 0 10px;">
+<p align="center">
+  <a href="mailto:tocontactgagan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/gdsai4903" style="text-decoration: none; margin: 0 10px;" target="_blank">
+  </a><a href="https://github.com/gdsai4903" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gagandeep-singh-354567242" style="text-decoration: none; margin: 0 10px;" target="_blank">
+  </a><a href="https://www.linkedin.com/in/gagandeep-singh-354567242" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/gdsai4903" style="text-decoration: none; margin: 0 10px;" target="_blank">
+  </a><a href="https://www.hackerrank.com/profile/gdsai4903" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-0d141e?style=for-the-badge&logo=Hackerrank&logoColor=#30c864" alt="Hackerrank"/>
   </a>
 </p>
-![hello](https://www.hackerrank.com/profile/gdsai4903)
 
 
 ---
