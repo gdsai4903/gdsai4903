@@ -82,13 +82,13 @@ I am continuously expanding my skillset. Here's what I'm focusing on:
 <p align="center">
   <a href="mailto:tocontactgagan@gmail.com" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/gdsai4903" style="text-decoration: none" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/gagandeep-singh-354567242" style="text-decoration: none" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a>&nbsp;
   <a href="https://www.hackerrank.com/profile/gdsai4903" style="text-decoration: none" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-0d141e?style=for-the-badge&logo=Hackerrank&logoColor=#30c864" alt="Instagram"/>
   </a>
