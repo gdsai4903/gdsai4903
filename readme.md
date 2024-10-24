@@ -58,9 +58,11 @@
 
 Here are a few projects I've been working on:
 
-- **Student Enrollment Program**: A command-line tool for students to enroll in college courses. [Repo Link](https://github.com/gdsai4903/online_student_portal.git)
-- **SQL-Boxstore**: The project encompasses data storage, normalization, database creation, data expansion, and visualization using an Entity Relationship Diagram (ERD). [Repo Link](https://github.com/gdsai4903/SQL-BoxStore.git)
-- **Airbnb Open Data Dashboard for Winnipeg**: Power BI dashboard project based on Airbnb open data for Winnipeg. [Repo Link](https://github.com/gdsai4903/airbnb-dashboard.git)
+| **Project** | **Description** | **Links** |
+|-------------|-----------------|-----------|
+| **Student Enrollment Program*** | A command-line tool for students to enroll in college courses. | [Repo Link](https://github.com/gdsai4903/online_student_portal.git) |
+| **SQL-Boxstore*** | The project encompasses data storage, normalization, database creation, data expansion, and visualization using an Entity Relationship Diagram (ERD). | [Repo Link](https://github.com/gdsai4903/SQL-BoxStore.git) |
+| **Airbnb Open Data Dashboard for Winnipeg** | Power BI dashboard project based on Airbnb open data for Winnipeg. | [Repo Link](https://github.com/gdsai4903/airbnb-dashboard.git)
 
 ## 📚 Currently Learning / Goals
 I am continuously expanding my skillset. Here's what I'm focusing on:
