@@ -1,7 +1,3 @@
-<header>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</header>
-
 <h1 style="font-size: 30px" align=center>Gagandeep Singh</h1>
 <p align="center">
     <b style="font-size: 17px">Welcome to my Github &#128075</b>
